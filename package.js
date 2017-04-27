@@ -14,9 +14,9 @@ Package.onUse(function (api) {
     'reactive-var',
     'less',
     'ecmascript',
-    'mdg:tutorial-step-diff-compiler@0.4.1',
-    'mdg:tutorial-diff-box@0.4.1',
-    'mdg:tutorial-registry@0.4.1'
+    'mdg:tutorial-step-diff-compiler@0.4.2-beta.1',
+    'mdg:tutorial-diff-box@0.4.2-beta.1',
+    'mdg:tutorial-registry@0.4.2-beta.1'
   ]);
 
   api.addFiles([
